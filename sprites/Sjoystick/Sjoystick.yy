@@ -2,10 +2,10 @@
   "$GMSprite":"v2",
   "%Name":"Sjoystick",
   "bboxMode":0,
-  "bbox_bottom":1356,
-  "bbox_left":673,
-  "bbox_right":1326,
-  "bbox_top":643,
+  "bbox_bottom":135,
+  "bbox_left":68,
+  "bbox_right":131,
+  "bbox_top":64,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
@@ -13,10 +13,11 @@
   "For3D":false,
   "frames":[
     {"$GMSpriteFrame":"v1","%Name":"321bfc36-17fe-43a9-aa5d-8e36743893da","name":"321bfc36-17fe-43a9-aa5d-8e36743893da","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"58bd51fc-b984-491b-994b-6b9cf7ebb0c5","name":"58bd51fc-b984-491b-994b-6b9cf7ebb0c5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":2000,
+  "height":200,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"8c312e7f-fb17-483c-98cb-5f98b554f983","blendMode":0,"displayName":"default","isLocked":false,"name":"8c312e7f-fb17-483c-98cb-5f98b554f983","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -49,7 +50,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":1.0,
+    "length":2.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -59,7 +60,7 @@
     },
     "name":"Sjoystick",
     "playback":1,
-    "playbackSpeed":30.0,
+    "playbackSpeed":0.0,
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
@@ -71,6 +72,9 @@
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"321bfc36-17fe-43a9-aa5d-8e36743893da","path":"sprites/Sjoystick/Sjoystick.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"3c9f9faf-78cf-449a-82bd-fd48dca83738","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"58bd51fc-b984-491b-994b-6b9cf7ebb0c5","path":"sprites/Sjoystick/Sjoystick.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"89249b10-d4b2-427b-a8e0-bf09e82c5cf9","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +90,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":2000,
+  "width":200,
 }
