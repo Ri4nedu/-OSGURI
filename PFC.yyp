@@ -41,6 +41,7 @@
     {"id":{"name":"backgorundteste","path":"sprites/backgorundteste/backgorundteste.yy",},},
     {"id":{"name":"idle2Player","path":"sprites/idle2Player/idle2Player.yy",},},
     {"id":{"name":"idlePlayer","path":"sprites/idlePlayer/idlePlayer.yy",},},
+    {"id":{"name":"JumpingAnimationPlayer","path":"sprites/JumpingAnimationPlayer/JumpingAnimationPlayer.yy",},},
     {"id":{"name":"RunLefPlayer","path":"sprites/RunLefPlayer/RunLefPlayer.yy",},},
     {"id":{"name":"RunRigPlayer","path":"sprites/RunRigPlayer/RunRigPlayer.yy",},},
     {"id":{"name":"sBack_1","path":"sprites/sBack_1/sBack_1.yy",},},

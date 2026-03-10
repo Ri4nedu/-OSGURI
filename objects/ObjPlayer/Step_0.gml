@@ -1,7 +1,7 @@
 // 1. INPUTS
 _right = keyboard_check(vk_right) || keyboard_check(ord("D"));
 _left  = keyboard_check(vk_left)  || keyboard_check(ord("A"));
-_jump  = keyboard_check_pressed(vk_space) || keyboard_check_pressed(ord("W"));
+_jump  = keyboard_check_pressed(vk_space) || keyboard_check_pressed(ord("W")) || keyboard_check(vk_up)
 
 // 2. VELOCIDADES
 _move = _right - _left;

@@ -35,6 +35,9 @@
     "name":"idle2Player",
     "path":"sprites/idle2Player/idle2Player.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"idlePlayer",
+    "path":"sprites/idlePlayer/idlePlayer.yy",
+  },
   "visible":true,
 }
