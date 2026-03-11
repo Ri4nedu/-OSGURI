@@ -36,6 +36,7 @@
     {"id":{"name":"Objoysitck","path":"objects/Objoysitck/Objoysitck.yy",},},
     {"id":{"name":"ObjPlayer","path":"objects/ObjPlayer/ObjPlayer.yy",},},
     {"id":{"name":"MainRoom","path":"rooms/MainRoom/MainRoom.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"backgorundteste","path":"sprites/backgorundteste/backgorundteste.yy",},},
     {"id":{"name":"idle2Player","path":"sprites/idle2Player/idle2Player.yy",},},
     {"id":{"name":"idlePlayer","path":"sprites/idlePlayer/idlePlayer.yy",},},
@@ -50,6 +51,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"MainRoom","path":"rooms/MainRoom/MainRoom.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
