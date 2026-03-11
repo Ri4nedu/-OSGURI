@@ -13,7 +13,7 @@ _move = 0;
 tempo_para_idle = 0; 
 tempo_espera = 8; // Quantos frames esperar (15 frames = 1/4 de segundo)
 //ò seus fudido daqui pra baixo é os controle
-virtual_key_add(150,400,100,100, vk_right);
+virtual_key_add(150,500,100,100, vk_right);
 
 virtual_key_add(20,500,100,100, vk_left);
-virtual_key_add(55,620,100,100, vk_up);
+virtual_key_add(55,500,100,100, vk_up);

@@ -37,8 +37,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"idle2Player",
-    "path":"sprites/idle2Player/idle2Player.yy",
+    "name":"idlePlayer",
+    "path":"sprites/idlePlayer/idlePlayer.yy",
   },
   "spriteMaskId":{
     "name":"idlePlayer",
