@@ -34,24 +34,33 @@ repeat(abs(vsp)) {
     }
 }
 
-// 6. LÓGICA DO VÁCUO DE TEMPO (ANIMAÇÃO)
+// 6. LÓGICA DE ANIMAÇÃO (Incluindo Pulo e Queda)
 if (place_meeting(x, y + 1, g)) {
+    // --- NO CHÃO ---
     if (hsp != 0) {
-        // Se está se movendo, reseta o timer e muda o sprite na hora
+        // Se está se movendo, reseta o timer e muda o sprite
         tempo_para_idle = tempo_espera; 
         
         if (hsp > 0) sprite_index = RunRigPlayer;
         else sprite_index = RunLefPlayer;
     } else {
-        // Se parou de se mover, começa a contagem regressiva
+        // Lógica do Vácuo de Tempo para o Idle
         if (tempo_para_idle > 0) {
             tempo_para_idle -= 1; 
-            // Enquanto o tempo não acaba, ele mantém o último sprite de corrida
         } else {
-            // Só quando o tempo zera, ele volta para o Idle
             sprite_index = idlePlayer;
         }
     }
+} else {
+    // --- NO AR (Pulo ou Queda) ---
+    sprite_index = JumpPlayer;
+    
+    // Opcional: Se quiser que ele olhe para o lado certo no ar
+    if (hsp > 0) image_xscale = 1;
+    if (hsp < 0) image_xscale = -1;
+    
+    // Reseta o timer de idle para que, ao cair, ele não entre em idle instantaneamente
+    tempo_para_idle = tempo_espera;
 }
 
 // 7. ARREDONDAMENTO FINAL
