@@ -3,7 +3,7 @@
   "%Name":"RunRigPlayer",
   "bboxMode":2,
   "bbox_bottom":51,
-  "bbox_left":20,
+  "bbox_left":14,
   "bbox_right":36,
   "bbox_top":10,
   "collisionKind":1,
