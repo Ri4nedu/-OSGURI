@@ -2,9 +2,9 @@
   "$GMSprite":"v2",
   "%Name":"FLACSO",
   "bboxMode":0,
-  "bbox_bottom":0,
+  "bbox_bottom":1360,
   "bbox_left":0,
-  "bbox_right":0,
+  "bbox_right":914,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,21 +12,21 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"3e28126a-0d8b-43d2-b40d-1b294763bb83","name":"3e28126a-0d8b-43d2-b40d-1b294763bb83","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"ccb4f594-52e0-4aa4-91dd-20b6eed813de","name":"ccb4f594-52e0-4aa4-91dd-20b6eed813de","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":64,
+  "height":1361,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"007bd5fb-7060-4e71-983b-f2d440480120","blendMode":0,"displayName":"default","isLocked":false,"name":"007bd5fb-7060-4e71-983b-f2d440480120","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"b55a9102-9e62-4226-b739-eda7555fb274","blendMode":0,"displayName":"default","isLocked":false,"name":"b55a9102-9e62-4226-b739-eda7555fb274","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"FLACSO",
   "nineSlice":null,
   "origin":0,
   "parent":{
     "name":"Logos",
-    "path":"folders/Logos.yy",
+    "path":"folders/Sprites/Logos.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3e28126a-0d8b-43d2-b40d-1b294763bb83","path":"sprites/FLACSO/FLACSO.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"dd739c9f-eb70-4201-90af-cec414fbb1a2","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ccb4f594-52e0-4aa4-91dd-20b6eed813de","path":"sprites/FLACSO/FLACSO.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"362ab4ec-f1eb-4bc0-b4dd-f68883374ad1","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":64,
+  "width":915,
 }
