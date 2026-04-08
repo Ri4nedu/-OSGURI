@@ -41,7 +41,7 @@ if (down) {
 // 4. EXECUÇÃO
 if (enter) {
     switch(index) {
-        case 0: room_goto(mr_game); break;
+        case 0: room_goto(level1r1); break;
         case 3: game_end(); break;
     }
 }
