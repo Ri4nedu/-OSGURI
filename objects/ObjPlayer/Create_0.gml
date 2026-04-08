@@ -4,7 +4,7 @@ vsp = 0;
 
 v_grav = 0.5;
 v_jump = -7;
-v_spd = 3;
+v_spd = 20;
 
 // INPUT
 _right = 0;
@@ -18,8 +18,32 @@ tempo_espera = 10;
 
 // DIREÇÃO INICIAL
 image_xscale = 1;
+spawn_x = x;
+spawn_y = y;
 
-// CONTROLES MOBILE
-virtual_key_add(160,540,80,80, vk_right);
-virtual_key_add(20,540,100,100, vk_left);
-virtual_key_add(75,460,80,80, vk_up);
+// --- CONFIGURAÇÕES DO JOYSTICK ANALÓGICO ---
+// --- POSIÇÃO DA BASE (SUAS TAGS) ---
+base_x = 220; 
+base_y = display_get_gui_height() - 220; 
+
+// Posição da "bolinha" interna (manche)
+joy_x = base_x;
+joy_y = base_y;
+joy_ativo = -1; // Armazena qual "dedo" (device) está tocando (-1 = nenhum)
+
+raio_max = 100;    // Limite de movimento do manche
+raio_toque = 150; // Área de ativação
+// Velocidades e Variáveis de Movimento
+hsp = 0;
+vsp = 0;
+v_grav = 0.5;
+v_jump = -7;
+v_spd = 3;
+
+// Delay e Spawn
+tempo_para_idle = 0; 
+tempo_espera = 10;
+image_xscale = 1;
+xstart = x;
+ystart = y;
+pulando = false;

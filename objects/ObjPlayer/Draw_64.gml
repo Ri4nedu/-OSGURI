@@ -1,9 +1,7 @@
-draw_sprite_ext(Sjoystick,_right,130,500,1,1,0,-1,1);
+// Desenha o fundo/base (estático)
+// Substitua 'spr_joystick_fundo' pelo nome da sua sprite de base
+draw_sprite_ext(spr_joystick_fundo, 0, base_x, base_y, 1, 1, 0, c_white, 0.5);
 
-
-draw_sprite_ext(Sjoystick,_jump, 55,620,1,1,90,-1,1);
-
-
-draw_sprite_ext(Sjoystick,_left, 170,700,1,1,180,-1,1);
-
-draw_sprite_ext(Sjoystick, 0, 250,580,1,1,270,-1,1);
+// Desenha a bolinha/manche (segue o joy_x e joy_y)
+// Substitua 'spr_joystick_manche' pelo nome da sua sprite de seta ou círculo central
+draw_sprite_ext(spr_joystick_manche, 0, joy_x, joy_y, 1, 1, 0, c_white, 0.8);
