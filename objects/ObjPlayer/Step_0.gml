@@ -24,7 +24,6 @@ for (var i = 0; i < 4; i++) {
             joy_x = base_x + lengthdir_x(_dist_limitada, _dir);
             joy_y = base_y + lengthdir_y(_dist_limitada, _dir);
             
-            // eixo horizontal e vertical
             _move  = lengthdir_x(1, _dir) * (_dist_limitada / raio_max);
             _moveY = lengthdir_y(1, _dir) * (_dist_limitada / raio_max);
         } else {
@@ -33,7 +32,6 @@ for (var i = 0; i < 4; i++) {
     }
 }
 
-// Retorno suave do joystick
 if (joy_ativo == -1) {
     joy_x = lerp(joy_x, base_x, 0.15);
     joy_y = lerp(joy_y, base_y, 0.15);
@@ -52,75 +50,67 @@ if (_moveY < -0.5) {
 // 3. MOVIMENTO HORIZONTAL
 // ==========================
 hsp = _move * v_spd;
-
-if (hsp != 0) {
-    image_xscale = sign(hsp);
-}
+if (hsp != 0) image_xscale = sign(hsp);
 
 // ==========================
-// 4. GRAVIDADE
+// 4. GRAVIDADE E PULO
 // ==========================
 vsp += v_grav;
-
-// ==========================
-// 5. PULO COM CONTROLE
-// ==========================
 if (place_meeting(x, y + 1, Ground)) {
     if (_jump && !pulando) {
         vsp = v_jump;
         pulando = true;
     }
-}
-
-// reset do pulo ao tocar no chão
-if (place_meeting(x, y + 1, Ground)) {
     pulando = false;
 } else {
     pulando = true;
 }
 
 // ==========================
-// 6. COLISÃO HORIZONTAL
+// 5. COLISÕES
 // ==========================
 if (place_meeting(x + hsp, y, Ground)) {
-    while (!place_meeting(x + sign(hsp), y, Ground)) {
-        x += sign(hsp);
-    }
+    while (!place_meeting(x + sign(hsp), y, Ground)) x += sign(hsp);
     hsp = 0;
 }
 x += hsp;
 
-// ==========================
-// 7. COLISÃO VERTICAL
-// ==========================
 if (place_meeting(x, y + vsp, Ground)) {
-    while (!place_meeting(x, y + sign(vsp), Ground)) {
-        y += sign(vsp);
-    }
+    while (!place_meeting(x, y + sign(vsp), Ground)) y += sign(vsp);
     vsp = 0;
 }
 y += vsp;
 
 // ==========================
-// 8. ANIMAÇÕES
+// 6. ANIMAÇÕES
 // ==========================
-if (!place_meeting(x, y + 1, Ground)) {
-    sprite_index = JumpPlayer;
-}
-else if (hsp != 0) {
-    sprite_index = RunPlayer;
-}
-else {
-    sprite_index = idlePlayer;
-}
+if (!place_meeting(x, y + 1, Ground)) sprite_index = JumpPlayer;
+else if (hsp != 0) sprite_index = RunPlayer;
+else sprite_index = idlePlayer;
 
 // ==========================
-// 9. RESPAWN
+// 7. SISTEMA DE VIDA E PERIGOS
 // ==========================
-if (y > room_height + 100) {
+// Timer de invencibilidade para não perder vida muito rápido
+if (inv_timer > 0) {
+    inv_timer--;
+    image_alpha = 0.5; // Feedback visual de invencibilidade
+} else {
+    image_alpha = 1.0;
+    
+    // Colisão com Poça ou Gota
+    if (place_meeting(x, y, Obj_poca) || place_meeting(x, y, obj_gota)) {
+        hp -= 1;
+        inv_timer = 60; // 1 segundo de invencibilidade
+    }
+}
+
+// Renascimento (Morte ou queda da sala)
+if (hp <= 0 || y > room_height + 200) {
+    hp = max_hp;
     x = xstart;
     y = ystart;
-
     hsp = 0;
     vsp = 0;
+    inv_timer = 0;
 }

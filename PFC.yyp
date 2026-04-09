@@ -1,87 +1,456 @@
 {
-  "$GMProject":"v1",
-  "%Name":"PFC",
-  "AudioGroups":[
-    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  "$GMProject": "v1",
+  "%Name": "PFC",
+  "AudioGroups": [
+    {
+      "$GMAudioGroup": "v1",
+      "%Name": "audiogroup_default",
+      "exportDir": "",
+      "name": "audiogroup_default",
+      "resourceType": "GMAudioGroup",
+      "resourceVersion": "2.0",
+      "targets": -1
+    }
   ],
-  "configs":{
-    "children":[],
-    "name":"Default",
+  "configs": {
+    "children": [],
+    "name": "Default"
   },
-  "defaultScriptType":1,
-  "Folders":[
-    {"$GMFolder":"","%Name":"1Level","folderPath":"folders/1Level.yy","name":"1Level","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"MainMenu","folderPath":"folders/1Level/MainMenu.yy","name":"MainMenu","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Mp4","folderPath":"folders/1Level/Mp4.yy","name":"Mp4","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Objects","folderPath":"folders/1Level/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/1Level/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Joystick","folderPath":"folders/Objects/Joystick.yy","name":"Joystick","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Scripts","folderPath":"folders/Scripts.yy","name":"Scripts","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"characters","folderPath":"folders/Sprites/characters.yy","name":"characters","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Npcs01","folderPath":"folders/Sprites/characters/Npcs01.yy","name":"Npcs01","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Player","folderPath":"folders/Sprites/characters/Player.yy","name":"Player","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Joystick","folderPath":"folders/Sprites/Joystick.yy","name":"Joystick","resourceType":"GMFolder","resourceVersion":"2.0",},
+  "defaultScriptType": 1,
+  "Folders": [
+    {
+      "$GMFolder": "",
+      "%Name": "1Level",
+      "folderPath": "folders/1Level.yy",
+      "name": "1Level",
+      "resourceType": "GMFolder",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMFolder": "",
+      "%Name": "MainMenu",
+      "folderPath": "folders/1Level/MainMenu.yy",
+      "name": "MainMenu",
+      "resourceType": "GMFolder",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMFolder": "",
+      "%Name": "Mp4",
+      "folderPath": "folders/1Level/Mp4.yy",
+      "name": "Mp4",
+      "resourceType": "GMFolder",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMFolder": "",
+      "%Name": "Objects",
+      "folderPath": "folders/1Level/Objects.yy",
+      "name": "Objects",
+      "resourceType": "GMFolder",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMFolder": "",
+      "%Name": "Sprites",
+      "folderPath": "folders/1Level/Sprites.yy",
+      "name": "Sprites",
+      "resourceType": "GMFolder",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMFolder": "",
+      "%Name": "Fonts",
+      "folderPath": "folders/Fonts.yy",
+      "name": "Fonts",
+      "resourceType": "GMFolder",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMFolder": "",
+      "%Name": "Objects",
+      "folderPath": "folders/Objects.yy",
+      "name": "Objects",
+      "resourceType": "GMFolder",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMFolder": "",
+      "%Name": "Joystick",
+      "folderPath": "folders/Objects/Joystick.yy",
+      "name": "Joystick",
+      "resourceType": "GMFolder",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMFolder": "",
+      "%Name": "Scripts",
+      "folderPath": "folders/Scripts.yy",
+      "name": "Scripts",
+      "resourceType": "GMFolder",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMFolder": "",
+      "%Name": "Sprites",
+      "folderPath": "folders/Sprites.yy",
+      "name": "Sprites",
+      "resourceType": "GMFolder",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMFolder": "",
+      "%Name": "characters",
+      "folderPath": "folders/Sprites/characters.yy",
+      "name": "characters",
+      "resourceType": "GMFolder",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMFolder": "",
+      "%Name": "Npcs01",
+      "folderPath": "folders/Sprites/characters/Npcs01.yy",
+      "name": "Npcs01",
+      "resourceType": "GMFolder",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMFolder": "",
+      "%Name": "Player",
+      "folderPath": "folders/Sprites/characters/Player.yy",
+      "name": "Player",
+      "resourceType": "GMFolder",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMFolder": "",
+      "%Name": "Joystick",
+      "folderPath": "folders/Sprites/Joystick.yy",
+      "name": "Joystick",
+      "resourceType": "GMFolder",
+      "resourceVersion": "2.0"
+    }
   ],
-  "ForcedPrefabProjectReferences":[],
-  "IncludedFiles":[],
-  "isEcma":false,
-  "LibraryEmitters":[],
-  "MetaData":{
-    "IDEVersion":"2024.14.4.222",
+  "ForcedPrefabProjectReferences": [],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2024.14.4.222"
   },
-  "name":"PFC",
-  "resources":[
-    {"id":{"name":"ft_menu","path":"fonts/ft_menu/ft_menu.yy",},},
-    {"id":{"name":"Classroom","path":"objects/Classroom/Classroom.yy",},},
-    {"id":{"name":"Ground","path":"objects/Ground/Ground.yy",},},
-    {"id":{"name":"Obj_door","path":"objects/Obj_door/Obj_door.yy",},},
-    {"id":{"name":"Obj_hall","path":"objects/Obj_hall/Obj_hall.yy",},},
-    {"id":{"name":"obj_joystick","path":"objects/obj_joystick/obj_joystick.yy",},},
-    {"id":{"name":"Obj_locker","path":"objects/Obj_locker/Obj_locker.yy",},},
-    {"id":{"name":"obj_player_exemplo","path":"objects/obj_player_exemplo/obj_player_exemplo.yy",},},
-    {"id":{"name":"Obj_poca","path":"objects/Obj_poca/Obj_poca.yy",},},
-    {"id":{"name":"obj_video_player","path":"objects/obj_video_player/obj_video_player.yy",},},
-    {"id":{"name":"Objdog","path":"objects/Objdog/Objdog.yy",},},
-    {"id":{"name":"ObjPlayer","path":"objects/ObjPlayer/ObjPlayer.yy",},},
-    {"id":{"name":"level1r0","path":"rooms/level1r0/level1r0.yy",},},
-    {"id":{"name":"level1r1","path":"rooms/level1r1/level1r1.yy",},},
-    {"id":{"name":"level1r2","path":"rooms/level1r2/level1r2.yy",},},
-    {"id":{"name":"room01","path":"rooms/room01/room01.yy",},},
-    {"id":{"name":"Dog","path":"sprites/Dog/Dog.yy",},},
-    {"id":{"name":"FriendJunin","path":"sprites/FriendJunin/FriendJunin.yy",},},
-    {"id":{"name":"idlePlayer","path":"sprites/idlePlayer/idlePlayer.yy",},},
-    {"id":{"name":"JumpPlayer","path":"sprites/JumpPlayer/JumpPlayer.yy",},},
-    {"id":{"name":"RunPlayer","path":"sprites/RunPlayer/RunPlayer.yy",},},
-    {"id":{"name":"sBack_1","path":"sprites/sBack_1/sBack_1.yy",},},
-    {"id":{"name":"spr_bolinha","path":"sprites/spr_bolinha/spr_bolinha.yy",},},
-    {"id":{"name":"spr_door","path":"sprites/spr_door/spr_door.yy",},},
-    {"id":{"name":"spr_gota","path":"sprites/spr_gota/spr_gota.yy",},},
-    {"id":{"name":"spr_ground","path":"sprites/spr_ground/spr_ground.yy",},},
-    {"id":{"name":"spr_hall","path":"sprites/spr_hall/spr_hall.yy",},},
-    {"id":{"name":"spr_joystick_fundo","path":"sprites/spr_joystick_fundo/spr_joystick_fundo.yy",},},
-    {"id":{"name":"spr_joystick_manche","path":"sprites/spr_joystick_manche/spr_joystick_manche.yy",},},
-    {"id":{"name":"spr_locker","path":"sprites/spr_locker/spr_locker.yy",},},
-    {"id":{"name":"spr_mainmenu","path":"sprites/spr_mainmenu/spr_mainmenu.yy",},},
-    {"id":{"name":"spr_pergaminhoA","path":"sprites/spr_pergaminhoA/spr_pergaminhoA.yy",},},
-    {"id":{"name":"spr_pergaminhoF","path":"sprites/spr_pergaminhoF/spr_pergaminhoF.yy",},},
-    {"id":{"name":"spr_play","path":"sprites/spr_play/spr_play.yy",},},
-    {"id":{"name":"spr_poca","path":"sprites/spr_poca/spr_poca.yy",},},
-    {"id":{"name":"Sprite13","path":"sprites/Sprite13/Sprite13.yy",},},
-    {"id":{"name":"Sscholback","path":"sprites/Sscholback/Sscholback.yy",},},
+  "name": "PFC",
+  "resources": [
+    {
+      "id": {
+        "name": "ft_menu",
+        "path": "fonts/ft_menu/ft_menu.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "Classroom",
+        "path": "objects/Classroom/Classroom.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "Ground",
+        "path": "objects/Ground/Ground.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "Obj_door",
+        "path": "objects/Obj_door/Obj_door.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "Obj_hall",
+        "path": "objects/Obj_hall/Obj_hall.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "obj_joystick",
+        "path": "objects/obj_joystick/obj_joystick.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "Obj_locker",
+        "path": "objects/Obj_locker/Obj_locker.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "obj_player_exemplo",
+        "path": "objects/obj_player_exemplo/obj_player_exemplo.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "Obj_poca",
+        "path": "objects/Obj_poca/Obj_poca.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "obj_video_player",
+        "path": "objects/obj_video_player/obj_video_player.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "Objdog",
+        "path": "objects/Objdog/Objdog.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "ObjPlayer",
+        "path": "objects/ObjPlayer/ObjPlayer.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "level1r0",
+        "path": "rooms/level1r0/level1r0.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "level1r1",
+        "path": "rooms/level1r1/level1r1.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "level1r2",
+        "path": "rooms/level1r2/level1r2.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "room01",
+        "path": "rooms/room01/room01.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "Dog",
+        "path": "sprites/Dog/Dog.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "FriendJunin",
+        "path": "sprites/FriendJunin/FriendJunin.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "idlePlayer",
+        "path": "sprites/idlePlayer/idlePlayer.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "JumpPlayer",
+        "path": "sprites/JumpPlayer/JumpPlayer.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "RunPlayer",
+        "path": "sprites/RunPlayer/RunPlayer.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "sBack_1",
+        "path": "sprites/sBack_1/sBack_1.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "spr_bolinha",
+        "path": "sprites/spr_bolinha/spr_bolinha.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "spr_door",
+        "path": "sprites/spr_door/spr_door.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "spr_gota",
+        "path": "sprites/spr_gota/spr_gota.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "spr_ground",
+        "path": "sprites/spr_ground/spr_ground.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "spr_hall",
+        "path": "sprites/spr_hall/spr_hall.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "spr_joystick_fundo",
+        "path": "sprites/spr_joystick_fundo/spr_joystick_fundo.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "spr_joystick_manche",
+        "path": "sprites/spr_joystick_manche/spr_joystick_manche.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "spr_locker",
+        "path": "sprites/spr_locker/spr_locker.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "spr_mainmenu",
+        "path": "sprites/spr_mainmenu/spr_mainmenu.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "spr_pergaminhoA",
+        "path": "sprites/spr_pergaminhoA/spr_pergaminhoA.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "spr_pergaminhoF",
+        "path": "sprites/spr_pergaminhoF/spr_pergaminhoF.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "spr_play",
+        "path": "sprites/spr_play/spr_play.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "spr_poca",
+        "path": "sprites/spr_poca/spr_poca.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "Sprite13",
+        "path": "sprites/Sprite13/Sprite13.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "Sscholback",
+        "path": "sprites/Sscholback/Sscholback.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "obj_ui_button",
+        "path": "objects/obj_ui_button/obj_ui_button.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "obj_camera_manager",
+        "path": "objects/obj_camera_manager/obj_camera_manager.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "scr_mobile_scaling",
+        "path": "scripts/scr_systems/scr_mobile_scaling.gml"
+      }
+    },
+    {
+      "id": {
+        "name": "obj_dialog_controller",
+        "path": "objects/obj_dialog_controller/obj_dialog_controller.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "scr_dialog_system",
+        "path": "scripts/scr_systems/scr_dialog_system.gml"
+      }
+    },
+    {
+      "id": {
+        "name": "obj_goteira",
+        "path": "objects/obj_goteira/obj_goteira.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "obj_gota",
+        "path": "objects/obj_gota/obj_gota.yy"
+      }
+    }
   ],
-  "resourceType":"GMProject",
-  "resourceVersion":"2.0",
-  "RoomOrderNodes":[
-    {"roomId":{"name":"level1r1","path":"rooms/level1r1/level1r1.yy",},},
-    {"roomId":{"name":"room01","path":"rooms/room01/room01.yy",},},
-    {"roomId":{"name":"level1r2","path":"rooms/level1r2/level1r2.yy",},},
-    {"roomId":{"name":"level1r0","path":"rooms/level1r0/level1r0.yy",},},
+  "resourceType": "GMProject",
+  "resourceVersion": "2.0",
+  "RoomOrderNodes": [
+    {
+      "roomId": {
+        "name": "room01",
+        "path": "rooms/room01/room01.yy"
+      }
+    },
+    {
+      "roomId": {
+        "name": "level1r1",
+        "path": "rooms/level1r1/level1r1.yy"
+      }
+    },
+    {
+      "roomId": {
+        "name": "level1r2",
+        "path": "rooms/level1r2/level1r2.yy"
+      }
+    },
+    {
+      "roomId": {
+        "name": "level1r0",
+        "path": "rooms/level1r0/level1r0.yy"
+      }
+    }
   ],
-  "templateType":"game",
-  "TextureGroups":[
-    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
-  ],
+  "templateType": "game",
+  "TextureGroups": [
+    {
+      "$GMTextureGroup": "",
+      "%Name": "Default",
+      "autocrop": true,
+      "border": 2,
+      "compressFormat": "bz2",
+      "customOptions": "",
+      "directory": "",
+      "groupParent": null,
+      "isScaled": true,
+      "loadType": "default",
+      "mipsToGenerate": 0,
+      "name": "Default",
+      "resourceType": "GMTextureGroup",
+      "resourceVersion": "2.0",
+      "targets": -1
+    }
+  ]
 }
