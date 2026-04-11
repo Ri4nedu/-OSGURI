@@ -1,4 +1,8 @@
-// Se o player encostar na porta e ela ainda estiver fechada
-if (place_meeting(x, y, obj_player) && image_speed == 0 && image_index == 0) {
-    image_speed = 1; // Inicia a animação de abrir
+/// @description Transição de sala ao colidir com o Player
+if (place_meeting(x, y, ObjPlayer)) {
+    // Transição simples: Ir para a próxima sala
+    // No futuro, podemos adicionar um efeito de fade preto aqui
+    if (room_next(room) != -1) {
+        room_goto_next();
+    }
 }
