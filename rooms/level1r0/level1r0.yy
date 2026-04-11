@@ -1,5 +1,5 @@
 {
-  "$GMRoom": "v1",
+  ,
   "%Name": "level1r0",
   "creationCodeFile": "",
   "inheritCode": false,
@@ -14,7 +14,7 @@
   "isDnd": false,
   "layers": [
     {
-      "$GMRoom": "v1",
+      ,
       "%Name": "Instances",
       "depth": 0,
       "effectEnabled": true,
@@ -28,7 +28,7 @@
       "inheritVisibility": true,
       "instances": [
         {
-          "$GMRoom": "v1",
+          ,
           "%Name": "inst_4DF53199",
           "colour": 4294967295,
           "frozen": false,
@@ -47,7 +47,7 @@
           },
           "properties": [],
           "resourceType": "GMRInstance",
-          "resourceVersion":"2.0",
+          "resourceVersion": "1.0",
           "rotation": 0.0,
           "scaleX": 1.0,
           "scaleY": 1.0,
@@ -59,12 +59,12 @@
       "name": "Instances",
       "properties": [],
       "resourceType": "GMRInstanceLayer",
-      "resourceVersion":"2.0",
+      "resourceVersion": "1.0",
       "userdefinedDepth": false,
       "visible": true
     },
     {
-      "$GMRoom": "v1",
+      ,
       "%Name": "Background",
       "animationFPS": 15.0,
       "animationSpeedType": 0,
@@ -85,7 +85,7 @@
       "name": "Background",
       "properties": [],
       "resourceType": "GMRBackgroundLayer",
-      "resourceVersion":"2.0",
+      "resourceVersion": "1.0",
       "spriteId": null,
       "stretch": false,
       "userdefinedAnimFPS": false,
@@ -111,7 +111,7 @@
     "PhysicsWorldPixToMetres": 0.1
   },
   "resourceType": "GMRoom",
-  "resourceVersion":"2.0",
+  "resourceVersion": "1.0",
   "roomSettings": {
     "Height": 768,
     "inheritRoomSettings": false,
