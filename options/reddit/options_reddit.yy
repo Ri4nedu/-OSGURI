@@ -1,5 +1,5 @@
 {
-  "$GMRedditOptions":"v2",
+  "$GM": "",
   "%Name":"Reddit",
   "name":"Reddit",
   "option_reddit_devvit_project_id":"${project_name}",
@@ -11,5 +11,5 @@
   "option_reddit_texture_page":"2048x2048",
   "option_reddit_transparent_background":false,
   "resourceType":"GMRedditOptions",
-  "resourceVersion":"2.0",
+  "resourceVersion":"1.0",
 }

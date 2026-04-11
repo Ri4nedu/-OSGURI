@@ -1,5 +1,5 @@
 {
-  "$GMRoom": "v1",
+  "$GMRoom": "",
   "%Name": "level1r2",
   "creationCodeFile": "",
   "inheritCode": false,
@@ -64,7 +64,7 @@
       "inheritVisibility": true,
       "instances": [
         {
-          "$GMRInstance": "v4",
+          "$GMRInstance": "",
           "%Name": "inst_31CF6EA0",
           "colour": 4294967295,
           "frozen": false,
@@ -83,7 +83,7 @@
           },
           "properties": [],
           "resourceType": "GMRInstance",
-          "resourceVersion": "2.0",
+          "resourceVersion": "1.0",
           "rotation": 0.0,
           "scaleX": 0.8695652,
           "scaleY": 0.8695652,
@@ -95,7 +95,7 @@
       "name": "Instances_1",
       "properties": [],
       "resourceType": "GMRInstanceLayer",
-      "resourceVersion": "2.0",
+      "resourceVersion": "1.0",
       "userdefinedDepth": false,
       "visible": true
     },
@@ -114,7 +114,7 @@
       "inheritVisibility": true,
       "instances": [
         {
-          "$GMRInstance": "v4",
+          "$GMRInstance": "",
           "%Name": "inst_1CA376B7",
           "colour": 4294967295,
           "frozen": false,
@@ -133,7 +133,7 @@
           },
           "properties": [],
           "resourceType": "GMRInstance",
-          "resourceVersion": "2.0",
+          "resourceVersion": "1.0",
           "rotation": 0.0,
           "scaleX": 61.121212,
           "scaleY": 1.0,
@@ -141,7 +141,7 @@
           "y": 448.0
         },
         {
-          "$GMRInstance": "v4",
+          "$GMRInstance": "",
           "%Name": "inst_473B6BBE",
           "colour": 4294967295,
           "frozen": false,
@@ -160,7 +160,7 @@
           },
           "properties": [],
           "resourceType": "GMRInstance",
-          "resourceVersion": "2.0",
+          "resourceVersion": "1.0",
           "rotation": 0.0,
           "scaleX": 1.0,
           "scaleY": 1.0,
@@ -168,7 +168,7 @@
           "y": 600.0
         },
         {
-          "$GMRInstance": "v4",
+          "$GMRInstance": "",
           "%Name": "inst_D464A0F6",
           "colour": 4294967295,
           "frozen": false,
@@ -187,7 +187,7 @@
           },
           "properties": [],
           "resourceType": "GMRInstance",
-          "resourceVersion": "2.0",
+          "resourceVersion": "1.0",
           "rotation": 0.0,
           "scaleX": 1.0,
           "scaleY": 1.0,
@@ -195,7 +195,7 @@
           "y": 600.0
         },
         {
-          "$GMRInstance": "v4",
+          "$GMRInstance": "",
           "%Name": "inst_A0F0348E",
           "colour": 4294967295,
           "frozen": false,
@@ -214,7 +214,7 @@
           },
           "properties": [],
           "resourceType": "GMRInstance",
-          "resourceVersion": "2.0",
+          "resourceVersion": "1.0",
           "rotation": 0.0,
           "scaleX": 1.0,
           "scaleY": 1.0,
@@ -222,7 +222,7 @@
           "y": 600.0
         },
         {
-          "$GMRInstance": "v4",
+          "$GMRInstance": "",
           "%Name": "inst_EF6E2C12",
           "colour": 4294967295,
           "frozen": false,
@@ -241,7 +241,7 @@
           },
           "properties": [],
           "resourceType": "GMRInstance",
-          "resourceVersion": "2.0",
+          "resourceVersion": "1.0",
           "rotation": 0.0,
           "scaleX": 1.0,
           "scaleY": 1.0,
@@ -249,7 +249,7 @@
           "y": 600.0
         },
         {
-          "$GMRInstance": "v4",
+          "$GMRInstance": "",
           "%Name": "inst_B1DC1F71",
           "colour": 4294967295,
           "frozen": false,
@@ -268,7 +268,7 @@
           },
           "properties": [],
           "resourceType": "GMRInstance",
-          "resourceVersion": "2.0",
+          "resourceVersion": "1.0",
           "rotation": 0.0,
           "scaleX": 1.0,
           "scaleY": 1.0,
@@ -276,7 +276,7 @@
           "y": 50.0
         },
         {
-          "$GMRInstance": "v4",
+          "$GMRInstance": "",
           "%Name": "inst_68F228D7",
           "colour": 4294967295,
           "frozen": false,
@@ -295,7 +295,7 @@
           },
           "properties": [],
           "resourceType": "GMRInstance",
-          "resourceVersion": "2.0",
+          "resourceVersion": "1.0",
           "rotation": 0.0,
           "scaleX": 1.0,
           "scaleY": 1.0,
@@ -303,7 +303,7 @@
           "y": 50.0
         },
         {
-          "$GMRInstance": "v4",
+          "$GMRInstance": "",
           "%Name": "inst_744EF25D",
           "colour": 4294967295,
           "frozen": false,
@@ -322,7 +322,7 @@
           },
           "properties": [],
           "resourceType": "GMRInstance",
-          "resourceVersion": "2.0",
+          "resourceVersion": "1.0",
           "rotation": 0.0,
           "scaleX": 1.0,
           "scaleY": 1.0,
@@ -330,7 +330,7 @@
           "y": 50.0
         },
         {
-          "$GMRInstance": "v4",
+          "$GMRInstance": "",
           "%Name": "inst_78DC0A13",
           "colour": 4294967295,
           "frozen": false,
@@ -349,7 +349,7 @@
           },
           "properties": [],
           "resourceType": "GMRInstance",
-          "resourceVersion": "2.0",
+          "resourceVersion": "1.0",
           "rotation": 0.0,
           "scaleX": 1.0,
           "scaleY": 1.0,
@@ -361,7 +361,7 @@
       "name": "Instances",
       "properties": [],
       "resourceType": "GMRInstanceLayer",
-      "resourceVersion": "2.0",
+      "resourceVersion": "1.0",
       "userdefinedDepth": false,
       "visible": false
     },
@@ -387,7 +387,7 @@
       "name": "Background",
       "properties": [],
       "resourceType": "GMRBackgroundLayer",
-      "resourceVersion": "2.0",
+      "resourceVersion": "1.0",
       "spriteId": {
         "name": "spr_hall",
         "path": "sprites/spr_hall/spr_hall.yy"
@@ -416,7 +416,7 @@
     "PhysicsWorldPixToMetres": 0.1
   },
   "resourceType": "GMRoom",
-  "resourceVersion": "2.0",
+  "resourceVersion": "1.0",
   "roomSettings": {
     "Height": 516,
     "inheritRoomSettings": false,

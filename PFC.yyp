@@ -1,5 +1,5 @@
 {
-  "$GMProject": "v1",
+  "$GMProject": "",
   "%Name": "PFC",
   "AudioGroups": [
     {
@@ -418,7 +418,7 @@
     }
   ],
   "resourceType": "GMProject",
-  "resourceVersion": "2.0",
+  "resourceVersion": "1.0",
   "RoomOrderNodes": [
     {
       "roomId": {

@@ -1,5 +1,5 @@
 {
-  "$GMXboxSeriesXSOptions":"v1",
+  "$GM": "",
   "%Name":"Xbox Series XS",
   "name":"Xbox Series XS",
   "option_xboxseriesxs_advancedmemorymodel_one_x":false,
@@ -45,5 +45,5 @@
   "option_xboxseriesxs_title_id":"01234567",
   "option_xboxseriesxs_version":"1.0.0.0",
   "resourceType":"GMXboxSeriesXSOptions",
-  "resourceVersion":"2.0",
+  "resourceVersion":"1.0",
 }
