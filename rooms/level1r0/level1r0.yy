@@ -47,7 +47,7 @@
           },
           "properties": [],
           "resourceType": "GMRInstance",
-          "resourceVersion": "1.0",
+          "resourceVersion":"2.0",
           "rotation": 0.0,
           "scaleX": 1.0,
           "scaleY": 1.0,
@@ -59,7 +59,7 @@
       "name": "Instances",
       "properties": [],
       "resourceType": "GMRInstanceLayer",
-      "resourceVersion": "1.0",
+      "resourceVersion":"2.0",
       "userdefinedDepth": false,
       "visible": true
     },
@@ -85,7 +85,7 @@
       "name": "Background",
       "properties": [],
       "resourceType": "GMRBackgroundLayer",
-      "resourceVersion": "1.0",
+      "resourceVersion":"2.0",
       "spriteId": null,
       "stretch": false,
       "userdefinedAnimFPS": false,
@@ -111,7 +111,7 @@
     "PhysicsWorldPixToMetres": 0.1
   },
   "resourceType": "GMRoom",
-  "resourceVersion": "1.0",
+  "resourceVersion":"2.0",
   "roomSettings": {
     "Height": 768,
     "inheritRoomSettings": false,

@@ -25,7 +25,7 @@
   "physicsStartAwake":true,
   "properties":[],
   "resourceType":"GMObject",
-  "resourceVersion":"1.0",
+  "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
     "name":"Sscholback",

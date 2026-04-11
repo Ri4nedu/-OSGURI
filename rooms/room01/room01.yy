@@ -55,7 +55,7 @@
           },
           "properties": [],
           "resourceType": "GMRInstance",
-          "resourceVersion": "1.0",
+          "resourceVersion":"2.0",
           "rotation": 0.0,
           "scaleX": 1.0,
           "scaleY": 1.0,
@@ -82,7 +82,7 @@
           },
           "properties": [
             {
-              "$GM": "",
+              "$GMRoom": "v1",
               "%Name": "",
               "name": "",
               "objectId": {
@@ -94,11 +94,11 @@
                 "path": "objects/obj_ui_button/obj_ui_button.yy"
               },
               "resourceType": "GMOverriddenProperty",
-              "resourceVersion": "1.0",
+              "resourceVersion":"2.0",
               "value": "Play"
             },
             {
-              "$GM": "",
+              "$GMRoom": "v1",
               "%Name": "",
               "name": "",
               "objectId": {
@@ -110,12 +110,12 @@
                 "path": "objects/obj_ui_button/obj_ui_button.yy"
               },
               "resourceType": "GMOverriddenProperty",
-              "resourceVersion": "1.0",
+              "resourceVersion":"2.0",
               "value": "level1r1"
             }
           ],
           "resourceType": "GMRInstance",
-          "resourceVersion": "1.0",
+          "resourceVersion":"2.0",
           "rotation": 0.0,
           "scaleX": 2.0,
           "scaleY": 2.0,
@@ -142,7 +142,7 @@
           },
           "properties": [
             {
-              "$GM": "",
+              "$GMRoom": "v1",
               "%Name": "",
               "name": "",
               "objectId": {
@@ -154,11 +154,11 @@
                 "path": "objects/obj_ui_button/obj_ui_button.yy"
               },
               "resourceType": "GMOverriddenProperty",
-              "resourceVersion": "1.0",
+              "resourceVersion":"2.0",
               "value": "Sair"
             },
             {
-              "$GM": "",
+              "$GMRoom": "v1",
               "%Name": "",
               "name": "",
               "objectId": {
@@ -170,12 +170,12 @@
                 "path": "objects/obj_ui_button/obj_ui_button.yy"
               },
               "resourceType": "GMOverriddenProperty",
-              "resourceVersion": "1.0",
+              "resourceVersion":"2.0",
               "value": "True"
             }
           ],
           "resourceType": "GMRInstance",
-          "resourceVersion": "1.0",
+          "resourceVersion":"2.0",
           "rotation": 0.0,
           "scaleX": 2.0,
           "scaleY": 2.0,
@@ -187,7 +187,7 @@
       "name": "Instances",
       "properties": [],
       "resourceType": "GMRInstanceLayer",
-      "resourceVersion": "1.0",
+      "resourceVersion":"2.0",
       "userdefinedDepth": false,
       "visible": true
     },
@@ -213,7 +213,7 @@
       "name": "Background",
       "properties": [],
       "resourceType": "GMRBackgroundLayer",
-      "resourceVersion": "1.0",
+      "resourceVersion":"2.0",
       "spriteId": {
         "name": "spr_mainmenu",
         "path": "sprites/spr_mainmenu/spr_mainmenu.yy"
@@ -242,7 +242,7 @@
     "PhysicsWorldPixToMetres": 0.1
   },
   "resourceType": "GMRoom",
-  "resourceVersion": "1.0",
+  "resourceVersion":"2.0",
   "roomSettings": {
     "Height": 768,
     "inheritRoomSettings": false,
