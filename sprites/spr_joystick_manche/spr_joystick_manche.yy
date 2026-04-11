@@ -1,5 +1,5 @@
 {
-  "$GM": "",
+  "$GMSprite": "v1",
   "%Name":"spr_joystick_manche",
   "bboxMode":0,
   "bbox_bottom":31,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GM": "","%Name":"997d8103-cc83-483c-bd22-6b69e4a0e29d","name":"997d8103-cc83-483c-bd22-6b69e4a0e29d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSprite": "v1","%Name":"997d8103-cc83-483c-bd22-6b69e4a0e29d","name":"997d8103-cc83-483c-bd22-6b69e4a0e29d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":4,
   "gridY":4,
   "height":32,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"14148878-ed18-47dd-a923-533909406916","blendMode":0,"displayName":"default","isLocked":false,"name":"14148878-ed18-47dd-a923-533909406916","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMSprite": "v1","%Name":"14148878-ed18-47dd-a923-533909406916","blendMode":0,"displayName":"default","isLocked":false,"name":"14148878-ed18-47dd-a923-533909406916","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_joystick_manche",
   "nineSlice":null,
@@ -32,7 +32,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GM": "",
+    "$GMSprite": "v1",
     "%Name":"spr_joystick_manche",
     "autoRecord":true,
     "backdropHeight":768,
@@ -67,7 +67,7 @@
     "showBackdropImage":false,
     "timeUnits":1,
     "tracks":[
-      {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
+      {"$GMSprite": "v1","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"997d8103-cc83-483c-bd22-6b69e4a0e29d","path":"sprites/spr_joystick_manche/spr_joystick_manche.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"01287777-ab5c-4c24-8d49-e9edb5205157","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},

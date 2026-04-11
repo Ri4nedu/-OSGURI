@@ -1,5 +1,5 @@
 {
-  "$GM": "",
+  "$GMSprite": "v1",
   "%Name":"spr_hall",
   "bboxMode":0,
   "bbox_bottom":515,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GM": "","%Name":"cacb32f3-bdf1-4924-abcb-bb667ba7c0fe","name":"cacb32f3-bdf1-4924-abcb-bb667ba7c0fe","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSprite": "v1","%Name":"cacb32f3-bdf1-4924-abcb-bb667ba7c0fe","name":"cacb32f3-bdf1-4924-abcb-bb667ba7c0fe","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":516,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"963bbcd6-d415-45a4-8caf-892c230934f9","blendMode":0,"displayName":"default","isLocked":false,"name":"963bbcd6-d415-45a4-8caf-892c230934f9","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMSprite": "v1","%Name":"963bbcd6-d415-45a4-8caf-892c230934f9","blendMode":0,"displayName":"default","isLocked":false,"name":"963bbcd6-d415-45a4-8caf-892c230934f9","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_hall",
   "nineSlice":null,
@@ -32,7 +32,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GM": "",
+    "$GMSprite": "v1",
     "%Name":"spr_hall",
     "autoRecord":true,
     "backdropHeight":768,
@@ -67,7 +67,7 @@
     "showBackdropImage":false,
     "timeUnits":1,
     "tracks":[
-      {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
+      {"$GMSprite": "v1","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"cacb32f3-bdf1-4924-abcb-bb667ba7c0fe","path":"sprites/spr_hall/spr_hall.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"5c997270-085e-4e93-97c8-b586f5014ba9","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},

@@ -1,5 +1,5 @@
 {
-  "$GM": "",
+  "$GMSprite": "v1",
   "%Name":"Dog",
   "bboxMode":0,
   "bbox_bottom":38,
@@ -12,17 +12,17 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GM": "","%Name":"ccb22825-6bed-468b-aa68-e8429024115a","name":"ccb22825-6bed-468b-aa68-e8429024115a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GM": "","%Name":"366c1505-7675-40a3-b29c-45df34f7f612","name":"366c1505-7675-40a3-b29c-45df34f7f612","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GM": "","%Name":"51ffe2bc-6341-46ee-ab1e-9bd952f03e7b","name":"51ffe2bc-6341-46ee-ab1e-9bd952f03e7b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GM": "","%Name":"b4c7ce68-039a-43b1-9299-95972248a23e","name":"b4c7ce68-039a-43b1-9299-95972248a23e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSprite": "v1","%Name":"ccb22825-6bed-468b-aa68-e8429024115a","name":"ccb22825-6bed-468b-aa68-e8429024115a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSprite": "v1","%Name":"366c1505-7675-40a3-b29c-45df34f7f612","name":"366c1505-7675-40a3-b29c-45df34f7f612","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSprite": "v1","%Name":"51ffe2bc-6341-46ee-ab1e-9bd952f03e7b","name":"51ffe2bc-6341-46ee-ab1e-9bd952f03e7b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSprite": "v1","%Name":"b4c7ce68-039a-43b1-9299-95972248a23e","name":"b4c7ce68-039a-43b1-9299-95972248a23e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":56,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"383a7364-7218-43ce-aab1-df826b2dd8d1","blendMode":0,"displayName":"default","isLocked":false,"name":"383a7364-7218-43ce-aab1-df826b2dd8d1","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMSprite": "v1","%Name":"383a7364-7218-43ce-aab1-df826b2dd8d1","blendMode":0,"displayName":"default","isLocked":false,"name":"383a7364-7218-43ce-aab1-df826b2dd8d1","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Dog",
   "nineSlice":null,
@@ -35,7 +35,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GM": "",
+    "$GMSprite": "v1",
     "%Name":"Dog",
     "autoRecord":true,
     "backdropHeight":768,
@@ -70,7 +70,7 @@
     "showBackdropImage":false,
     "timeUnits":1,
     "tracks":[
-      {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
+      {"$GMSprite": "v1","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ccb22825-6bed-468b-aa68-e8429024115a","path":"sprites/Dog/Dog.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"4be74891-a8d6-4fd0-a5ba-92c77ef4155d","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},

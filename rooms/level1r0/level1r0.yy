@@ -1,5 +1,5 @@
 {
-  "$GMRoom": "",
+  "$GMRoom": "v1",
   "%Name": "level1r0",
   "creationCodeFile": "",
   "inheritCode": false,
@@ -14,7 +14,7 @@
   "isDnd": false,
   "layers": [
     {
-      "$GMRInstanceLayer": "",
+      "$GMRoom": "v1",
       "%Name": "Instances",
       "depth": 0,
       "effectEnabled": true,
@@ -28,7 +28,7 @@
       "inheritVisibility": true,
       "instances": [
         {
-          "$GMRInstance": "",
+          "$GMRoom": "v1",
           "%Name": "inst_4DF53199",
           "colour": 4294967295,
           "frozen": false,
@@ -64,7 +64,7 @@
       "visible": true
     },
     {
-      "$GMRBackgroundLayer": "",
+      "$GMRoom": "v1",
       "%Name": "Background",
       "animationFPS": 15.0,
       "animationSpeedType": 0,

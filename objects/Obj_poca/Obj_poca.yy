@@ -1,5 +1,5 @@
 {
-  "$GMObject":"",
+  "$GMObject": "v1",
   "%Name":"Obj_poca",
   "eventList":[],
   "managed":true,

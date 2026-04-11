@@ -1,5 +1,5 @@
 {
-  "$GMObject":"",
+  "$GMObject": "v1",
   "%Name":"Objdog",
   "eventList":[],
   "managed":true,

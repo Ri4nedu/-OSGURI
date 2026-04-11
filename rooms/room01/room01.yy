@@ -1,5 +1,5 @@
 {
-  "$GMRoom": "",
+  "$GMRoom": "v1",
   "%Name": "room01",
   "creationCodeFile": "",
   "inheritCode": false,
@@ -22,7 +22,7 @@
   "isDnd": false,
   "layers": [
     {
-      "$GMRInstanceLayer": "",
+      "$GMRoom": "v1",
       "%Name": "Instances",
       "depth": 0,
       "effectEnabled": true,
@@ -36,7 +36,7 @@
       "inheritVisibility": true,
       "instances": [
         {
-          "$GMRInstance": "",
+          "$GMRoom": "v1",
           "%Name": "inst_A4234D1E",
           "colour": 4294967295,
           "frozen": false,
@@ -63,7 +63,7 @@
           "y": 0.0
         },
         {
-          "$GMRInstance": "",
+          "$GMRoom": "v1",
           "%Name": "inst_9663BA79",
           "colour": 4294967295,
           "frozen": false,
@@ -123,7 +123,7 @@
           "y": 350.0
         },
         {
-          "$GMRInstance": "",
+          "$GMRoom": "v1",
           "%Name": "inst_52026CC3",
           "colour": 4294967295,
           "frozen": false,
@@ -192,7 +192,7 @@
       "visible": true
     },
     {
-      "$GMRBackgroundLayer": "",
+      "$GMRoom": "v1",
       "%Name": "Background",
       "animationFPS": 30.0,
       "animationSpeedType": 0,

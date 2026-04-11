@@ -1,5 +1,5 @@
 {
-  "$GM": "",
+  "$GMSprite": "v1",
   "%Name":"Sscholback",
   "bboxMode":0,
   "bbox_bottom":315,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GM": "","%Name":"5a068b37-74cf-43d4-bff4-0b2cf9952d1b","name":"5a068b37-74cf-43d4-bff4-0b2cf9952d1b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSprite": "v1","%Name":"5a068b37-74cf-43d4-bff4-0b2cf9952d1b","name":"5a068b37-74cf-43d4-bff4-0b2cf9952d1b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":316,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"bd2cdb17-29f0-473b-9c65-fd1a979c515f","blendMode":0,"displayName":"default","isLocked":false,"name":"bd2cdb17-29f0-473b-9c65-fd1a979c515f","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMSprite": "v1","%Name":"bd2cdb17-29f0-473b-9c65-fd1a979c515f","blendMode":0,"displayName":"default","isLocked":false,"name":"bd2cdb17-29f0-473b-9c65-fd1a979c515f","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Sscholback",
   "nineSlice":null,
@@ -32,7 +32,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GM": "",
+    "$GMSprite": "v1",
     "%Name":"Sscholback",
     "autoRecord":true,
     "backdropHeight":768,
@@ -67,7 +67,7 @@
     "showBackdropImage":false,
     "timeUnits":1,
     "tracks":[
-      {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
+      {"$GMSprite": "v1","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5a068b37-74cf-43d4-bff4-0b2cf9952d1b","path":"sprites/Sscholback/Sscholback.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"1a4bef12-a1b0-4810-9dee-210b0fe8eb05","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},

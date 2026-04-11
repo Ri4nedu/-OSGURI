@@ -1,5 +1,5 @@
 {
-  "$GMRoom": "",
+  "$GMRoom": "v1",
   "%Name": "level1r2",
   "creationCodeFile": "",
   "inheritCode": false,
@@ -50,7 +50,7 @@
   "isDnd": false,
   "layers": [
     {
-      "$GMRInstanceLayer": "",
+      "$GMRoom": "v1",
       "%Name": "Instances_1",
       "depth": 0,
       "effectEnabled": true,
@@ -64,7 +64,7 @@
       "inheritVisibility": true,
       "instances": [
         {
-          "$GMRInstance": "",
+          "$GMRoom": "v1",
           "%Name": "inst_31CF6EA0",
           "colour": 4294967295,
           "frozen": false,
@@ -100,7 +100,7 @@
       "visible": true
     },
     {
-      "$GMRInstanceLayer": "",
+      "$GMRoom": "v1",
       "%Name": "Instances",
       "depth": 100,
       "effectEnabled": true,
@@ -114,7 +114,7 @@
       "inheritVisibility": true,
       "instances": [
         {
-          "$GMRInstance": "",
+          "$GMRoom": "v1",
           "%Name": "inst_1CA376B7",
           "colour": 4294967295,
           "frozen": false,
@@ -141,7 +141,7 @@
           "y": 448.0
         },
         {
-          "$GMRInstance": "",
+          "$GMRoom": "v1",
           "%Name": "inst_473B6BBE",
           "colour": 4294967295,
           "frozen": false,
@@ -168,7 +168,7 @@
           "y": 600.0
         },
         {
-          "$GMRInstance": "",
+          "$GMRoom": "v1",
           "%Name": "inst_D464A0F6",
           "colour": 4294967295,
           "frozen": false,
@@ -195,7 +195,7 @@
           "y": 600.0
         },
         {
-          "$GMRInstance": "",
+          "$GMRoom": "v1",
           "%Name": "inst_A0F0348E",
           "colour": 4294967295,
           "frozen": false,
@@ -222,7 +222,7 @@
           "y": 600.0
         },
         {
-          "$GMRInstance": "",
+          "$GMRoom": "v1",
           "%Name": "inst_EF6E2C12",
           "colour": 4294967295,
           "frozen": false,
@@ -249,7 +249,7 @@
           "y": 600.0
         },
         {
-          "$GMRInstance": "",
+          "$GMRoom": "v1",
           "%Name": "inst_B1DC1F71",
           "colour": 4294967295,
           "frozen": false,
@@ -276,7 +276,7 @@
           "y": 50.0
         },
         {
-          "$GMRInstance": "",
+          "$GMRoom": "v1",
           "%Name": "inst_68F228D7",
           "colour": 4294967295,
           "frozen": false,
@@ -303,7 +303,7 @@
           "y": 50.0
         },
         {
-          "$GMRInstance": "",
+          "$GMRoom": "v1",
           "%Name": "inst_744EF25D",
           "colour": 4294967295,
           "frozen": false,
@@ -330,7 +330,7 @@
           "y": 50.0
         },
         {
-          "$GMRInstance": "",
+          "$GMRoom": "v1",
           "%Name": "inst_78DC0A13",
           "colour": 4294967295,
           "frozen": false,
@@ -366,7 +366,7 @@
       "visible": false
     },
     {
-      "$GMRBackgroundLayer": "",
+      "$GMRoom": "v1",
       "%Name": "Background",
       "animationFPS": 30.0,
       "animationSpeedType": 0,

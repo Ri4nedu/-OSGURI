@@ -1,5 +1,5 @@
 {
-  "$GM": "",
+  "$GMSprite": "v1",
   "%Name":"Sprite13",
   "bboxMode":0,
   "bbox_bottom":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GM": "","%Name":"e372ff56-1814-439b-b28c-f856a0de66c8","name":"e372ff56-1814-439b-b28c-f856a0de66c8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSprite": "v1","%Name":"e372ff56-1814-439b-b28c-f856a0de66c8","name":"e372ff56-1814-439b-b28c-f856a0de66c8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":64,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"1532250a-de84-4a2c-b6bc-ce15e1e05303","blendMode":0,"displayName":"default","isLocked":false,"name":"1532250a-de84-4a2c-b6bc-ce15e1e05303","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMSprite": "v1","%Name":"1532250a-de84-4a2c-b6bc-ce15e1e05303","blendMode":0,"displayName":"default","isLocked":false,"name":"1532250a-de84-4a2c-b6bc-ce15e1e05303","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Sprite13",
   "nineSlice":null,
@@ -32,7 +32,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GM": "",
+    "$GMSprite": "v1",
     "%Name":"Sprite13",
     "autoRecord":true,
     "backdropHeight":768,
@@ -67,7 +67,7 @@
     "showBackdropImage":false,
     "timeUnits":1,
     "tracks":[
-      {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
+      {"$GMSprite": "v1","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e372ff56-1814-439b-b28c-f856a0de66c8","path":"sprites/Sprite13/Sprite13.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"1d8bf9db-e05a-4148-bc1f-aa0fc2d54a21","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
