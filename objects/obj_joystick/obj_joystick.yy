@@ -1,5 +1,9 @@
 {
+<<<<<<< Updated upstream
   ,
+=======
+  "$GMObject":"v1",
+>>>>>>> Stashed changes
   "%Name":"obj_joystick",
   "eventList":[
     {"%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion": "1.0"},

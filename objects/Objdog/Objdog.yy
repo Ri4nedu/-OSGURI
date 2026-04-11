@@ -1,5 +1,9 @@
 {
+<<<<<<< Updated upstream
   ,
+=======
+  "$GMObject":"v1",
+>>>>>>> Stashed changes
   "%Name":"Objdog",
   "eventList":[],
   "managed":true,

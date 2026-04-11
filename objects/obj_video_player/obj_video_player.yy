@@ -1,5 +1,9 @@
 {
+<<<<<<< Updated upstream
   ,
+=======
+  "$GMObject":"v1",
+>>>>>>> Stashed changes
   "%Name":"obj_video_player",
   "eventList":[],
   "managed":true,

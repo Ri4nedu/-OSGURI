@@ -1,5 +1,9 @@
 {
+<<<<<<< Updated upstream
   ,
+=======
+  "$GMSprite":"v2",
+>>>>>>> Stashed changes
   "%Name":"Dog",
   "bboxMode":0,
   "bbox_bottom":38,
@@ -12,17 +16,28 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
+<<<<<<< Updated upstream
     {"%Name":"ccb22825-6bed-468b-aa68-e8429024115a","name":"ccb22825-6bed-468b-aa68-e8429024115a","resourceType":"GMSpriteFrame","resourceVersion": "1.0"},
     {"%Name":"366c1505-7675-40a3-b29c-45df34f7f612","name":"366c1505-7675-40a3-b29c-45df34f7f612","resourceType":"GMSpriteFrame","resourceVersion": "1.0"},
     {"%Name":"51ffe2bc-6341-46ee-ab1e-9bd952f03e7b","name":"51ffe2bc-6341-46ee-ab1e-9bd952f03e7b","resourceType":"GMSpriteFrame","resourceVersion": "1.0"},
     {"%Name":"b4c7ce68-039a-43b1-9299-95972248a23e","name":"b4c7ce68-039a-43b1-9299-95972248a23e","resourceType":"GMSpriteFrame","resourceVersion": "1.0"},
+=======
+    {"$GMSprite":"v2","%Name":"ccb22825-6bed-468b-aa68-e8429024115a","name":"ccb22825-6bed-468b-aa68-e8429024115a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSprite":"v2","%Name":"366c1505-7675-40a3-b29c-45df34f7f612","name":"366c1505-7675-40a3-b29c-45df34f7f612","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSprite":"v2","%Name":"51ffe2bc-6341-46ee-ab1e-9bd952f03e7b","name":"51ffe2bc-6341-46ee-ab1e-9bd952f03e7b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSprite":"v2","%Name":"b4c7ce68-039a-43b1-9299-95972248a23e","name":"b4c7ce68-039a-43b1-9299-95972248a23e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+>>>>>>> Stashed changes
   ],
   "gridX":0,
   "gridY":0,
   "height":56,
   "HTile":false,
   "layers":[
+<<<<<<< Updated upstream
     {"%Name":"383a7364-7218-43ce-aab1-df826b2dd8d1","blendMode":0,"displayName":"default","isLocked":false,"name":"383a7364-7218-43ce-aab1-df826b2dd8d1","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion": "1.0","visible":true},
+=======
+    {"$GMSprite":"v2","%Name":"383a7364-7218-43ce-aab1-df826b2dd8d1","blendMode":0,"displayName":"default","isLocked":false,"name":"383a7364-7218-43ce-aab1-df826b2dd8d1","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+>>>>>>> Stashed changes
   ],
   "name":"Dog",
   "nineSlice":null,
@@ -35,7 +50,11 @@
   "resourceType":"GMSprite",
   "resourceVersion": "1.0",
   "sequence":{
+<<<<<<< Updated upstream
     ,
+=======
+    "$GMSprite":"v2",
+>>>>>>> Stashed changes
     "%Name":"Dog",
     "autoRecord":true,
     "backdropHeight":768,
@@ -70,6 +89,7 @@
     "showBackdropImage":false,
     "timeUnits":1,
     "tracks":[
+<<<<<<< Updated upstream
       {"builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ccb22825-6bed-468b-aa68-e8429024115a","path":"sprites/Dog/Dog.yy"},"resourceType":"SpriteFrameKeyframe","resourceVersion": "1.0"},
@@ -84,6 +104,14 @@
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b4c7ce68-039a-43b1-9299-95972248a23e","path":"sprites/Dog/Dog.yy"},"resourceType":"SpriteFrameKeyframe","resourceVersion": "1.0"},
               },"Disabled":false,"id":"ae40f52b-1933-4d6e-bf17-0a6c71a14d23","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion": "1.0","Stretch":false},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion": "1.0"},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion": "1.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0},
+=======
+      {"$GMSprite":"v2","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"ccb22825-6bed-468b-aa68-e8429024115a","path":"sprites/Dog/Dog.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"4be74891-a8d6-4fd0-a5ba-92c77ef4155d","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"366c1505-7675-40a3-b29c-45df34f7f612","path":"sprites/Dog/Dog.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"8b20be6f-cdbe-48f4-839f-30f3111aa017","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"51ffe2bc-6341-46ee-ab1e-9bd952f03e7b","path":"sprites/Dog/Dog.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"6e5d58ab-f960-4903-8d73-3c9a10530081","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"b4c7ce68-039a-43b1-9299-95972248a23e","path":"sprites/Dog/Dog.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"ae40f52b-1933-4d6e-bf17-0a6c71a14d23","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+          ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
+>>>>>>> Stashed changes
     ],
     "visibleRange":null,
     "volume":1.0,

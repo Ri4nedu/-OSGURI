@@ -1,9 +1,17 @@
 {
+<<<<<<< Updated upstream
   ,
   "%Name":"obj_player_exemplo",
   "eventList":[
     {"%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion": "1.0"},
     {"%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion": "1.0"},
+=======
+  "$GMObject":"v1",
+  "%Name":"obj_player_exemplo",
+  "eventList":[
+    {"$GMObject":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMObject":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+>>>>>>> Stashed changes
   ],
   "managed":true,
   "name":"obj_player_exemplo",

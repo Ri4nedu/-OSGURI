@@ -1,10 +1,19 @@
 {
+<<<<<<< Updated upstream
   ,
   "%Name":"ObjPlayer",
   "eventList":[
     {"%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion": "1.0"},
     {"%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion": "1.0"},
     {"%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion": "1.0"},
+=======
+  "$GMObject":"v1",
+  "%Name":"ObjPlayer",
+  "eventList":[
+    {"$GMObject":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMObject":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMObject":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+>>>>>>> Stashed changes
   ],
   "managed":true,
   "name":"ObjPlayer",
