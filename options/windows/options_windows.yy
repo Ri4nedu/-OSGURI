@@ -1,5 +1,5 @@
 {
-  "$GM":"",
+  "$GMWindowsOptions":"v2",
   "%Name":"Windows",
   "name":"Windows",
   "option_windows_allow_fullscreen_switching":false,
@@ -34,5 +34,5 @@
   "option_windows_version":"1.0.0.0",
   "option_windows_vsync":false,
   "resourceType":"GMWindowsOptions",
-  "resourceVersion": "1.0",
+  "resourceVersion":"2.0",
 }

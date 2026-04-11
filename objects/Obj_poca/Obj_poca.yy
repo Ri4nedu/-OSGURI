@@ -1,9 +1,5 @@
 {
-<<<<<<< Updated upstream
-  ,
-=======
-  "$GMObject":"v1",
->>>>>>> Stashed changes
+  "$GMObject":"",
   "%Name":"Obj_poca",
   "eventList":[],
   "managed":true,
@@ -29,7 +25,7 @@
   "physicsStartAwake":true,
   "properties":[],
   "resourceType":"GMObject",
-  "resourceVersion": "1.0",
+  "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
     "name":"spr_poca",

@@ -1,17 +1,9 @@
 {
-<<<<<<< Updated upstream
-  ,
+  "$GMObject":"",
   "%Name":"obj_player_exemplo",
   "eventList":[
-    {"%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion": "1.0"},
-    {"%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion": "1.0"},
-=======
-  "$GMObject":"v1",
-  "%Name":"obj_player_exemplo",
-  "eventList":[
-    {"$GMObject":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMObject":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
->>>>>>> Stashed changes
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_player_exemplo",
@@ -36,7 +28,7 @@
   "physicsStartAwake":true,
   "properties":[],
   "resourceType":"GMObject",
-  "resourceVersion": "1.0",
+  "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
     "name":"spr_joystick_fundo",

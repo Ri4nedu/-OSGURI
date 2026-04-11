@@ -1,48 +1,14 @@
 {
-<<<<<<< Updated upstream
-  ,
-  "%Name": "obj_gota",
-  "eventList": [
-    {"%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion": "1.0"},
-    {"%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion": "1.0"}
-=======
-  "$GMObject":"v1",
+  "$GMObject":"",
   "%Name":"obj_gota",
-  "eventList":[
-    {"$GMObject":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMObject":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
->>>>>>> Stashed changes
-  ],
+  "eventList":[],
   "managed":true,
   "name":"obj_gota",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
-    "path":"folders/Objects.yy",
+    "path":"folders/1Level/Objects.yy",
   },
-<<<<<<< Updated upstream
-  "parentObjectId": null,
-  "persistent": false,
-  "physicsAngularDamping": 0.1,
-  "physicsDensity": 0.5,
-  "physicsFriction": 0.2,
-  "physicsGroup": 1,
-  "physicsKinematic": false,
-  "physicsLinearDamping": 0.1,
-  "physicsObject": false,
-  "physicsRestitution": 0.1,
-  "physicsSensor": false,
-  "physicsShape": 1,
-  "physicsShapePoints": [],
-  "physicsStartAwake": true,
-  "properties": [],
-  "resourceType": "GMObject",
-  "resourceVersion": "1.0",
-  "solid": false,
-  "spriteId": {
-    "name": "spr_gota",
-    "path": "sprites/spr_gota/spr_gota.yy"
-=======
   "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -64,7 +30,6 @@
   "spriteId":{
     "name":"spr_gota",
     "path":"sprites/spr_gota/spr_gota.yy",
->>>>>>> Stashed changes
   },
   "spriteMaskId":null,
   "visible":true,
