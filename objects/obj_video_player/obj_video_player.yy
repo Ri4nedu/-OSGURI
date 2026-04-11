@@ -1,5 +1,5 @@
 {
-  "$GMObject":"",
+  "$GMObject": "v1",
   "%Name":"obj_video_player",
   "eventList":[],
   "managed":true,

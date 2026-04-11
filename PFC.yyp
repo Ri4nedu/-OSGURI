@@ -377,7 +377,7 @@
     {
       "id": {
         "name": "scr_mobile_scaling",
-        "path": "scripts/scr_systems/scr_mobile_scaling.gml"
+        "path": "scripts/scr_systems/scr_mobile_scaling.yy"
       }
     },
     {
@@ -389,7 +389,7 @@
     {
       "id": {
         "name": "scr_dialog_system",
-        "path": "scripts/scr_systems/scr_dialog_system.gml"
+        "path": "scripts/scr_systems/scr_dialog_system.yy"
       }
     },
     {
