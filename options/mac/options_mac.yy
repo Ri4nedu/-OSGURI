@@ -1,5 +1,5 @@
 {
-  "$GMMacOptions":"",
+  ,
   "%Name":"macOS",
   "name":"macOS",
   "option_mac_allow_fullscreen":false,
@@ -34,5 +34,5 @@
   "option_mac_vsync":false,
   "option_mac_x86_64":true,
   "resourceType":"GMMacOptions",
-  "resourceVersion":"2.0",
+  "resourceVersion": "1.0",
 }

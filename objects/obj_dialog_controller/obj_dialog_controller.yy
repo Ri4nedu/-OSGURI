@@ -1,10 +1,10 @@
 {
-  "$GMObject": "v1",
+  ,
   "%Name": "obj_dialog_controller",
   "eventList": [
-    {"$GMObject": "v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMObject": "v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMObject": "v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",}
+    {"%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion": "1.0"},
+    {"%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion": "1.0"},
+    {"%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion": "1.0"}
   ],
   "managed": true,
   "name": "obj_dialog_controller",
@@ -29,7 +29,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "resourceType": "GMObject",
-  "resourceVersion":"2.0",
+  "resourceVersion": "1.0",
   "solid": false,
   "spriteId": null,
   "spriteMaskId": null,

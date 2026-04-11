@@ -1,14 +1,14 @@
 {
-  "$GMProject": "v1",
+  ,
   "%Name": "PFC",
   "AudioGroups": [
     {
-      "$GMAudioGroup": "v1",
+      ,
       "%Name": "audiogroup_default",
       "exportDir": "",
       "name": "audiogroup_default",
       "resourceType": "GMAudioGroup",
-      "resourceVersion": "2.0",
+      "resourceVersion": "1.0",
       "targets": -1
     }
   ],
@@ -19,116 +19,116 @@
   "defaultScriptType": 1,
   "Folders": [
     {
-      "$GMFolder": "",
+      ,
       "%Name": "1Level",
       "folderPath": "folders/1Level.yy",
       "name": "1Level",
       "resourceType": "GMFolder",
-      "resourceVersion": "2.0"
+      "resourceVersion": "1.0"
     },
     {
-      "$GMFolder": "",
+      ,
       "%Name": "MainMenu",
       "folderPath": "folders/1Level/MainMenu.yy",
       "name": "MainMenu",
       "resourceType": "GMFolder",
-      "resourceVersion": "2.0"
+      "resourceVersion": "1.0"
     },
     {
-      "$GMFolder": "",
+      ,
       "%Name": "Mp4",
       "folderPath": "folders/1Level/Mp4.yy",
       "name": "Mp4",
       "resourceType": "GMFolder",
-      "resourceVersion": "2.0"
+      "resourceVersion": "1.0"
     },
     {
-      "$GMFolder": "",
+      ,
       "%Name": "Objects",
       "folderPath": "folders/1Level/Objects.yy",
       "name": "Objects",
       "resourceType": "GMFolder",
-      "resourceVersion": "2.0"
+      "resourceVersion": "1.0"
     },
     {
-      "$GMFolder": "",
+      ,
       "%Name": "Sprites",
       "folderPath": "folders/1Level/Sprites.yy",
       "name": "Sprites",
       "resourceType": "GMFolder",
-      "resourceVersion": "2.0"
+      "resourceVersion": "1.0"
     },
     {
-      "$GMFolder": "",
+      ,
       "%Name": "Fonts",
       "folderPath": "folders/Fonts.yy",
       "name": "Fonts",
       "resourceType": "GMFolder",
-      "resourceVersion": "2.0"
+      "resourceVersion": "1.0"
     },
     {
-      "$GMFolder": "",
+      ,
       "%Name": "Objects",
       "folderPath": "folders/Objects.yy",
       "name": "Objects",
       "resourceType": "GMFolder",
-      "resourceVersion": "2.0"
+      "resourceVersion": "1.0"
     },
     {
-      "$GMFolder": "",
+      ,
       "%Name": "Joystick",
       "folderPath": "folders/Objects/Joystick.yy",
       "name": "Joystick",
       "resourceType": "GMFolder",
-      "resourceVersion": "2.0"
+      "resourceVersion": "1.0"
     },
     {
-      "$GMFolder": "",
+      ,
       "%Name": "Scripts",
       "folderPath": "folders/Scripts.yy",
       "name": "Scripts",
       "resourceType": "GMFolder",
-      "resourceVersion": "2.0"
+      "resourceVersion": "1.0"
     },
     {
-      "$GMFolder": "",
+      ,
       "%Name": "Sprites",
       "folderPath": "folders/Sprites.yy",
       "name": "Sprites",
       "resourceType": "GMFolder",
-      "resourceVersion": "2.0"
+      "resourceVersion": "1.0"
     },
     {
-      "$GMFolder": "",
+      ,
       "%Name": "characters",
       "folderPath": "folders/Sprites/characters.yy",
       "name": "characters",
       "resourceType": "GMFolder",
-      "resourceVersion": "2.0"
+      "resourceVersion": "1.0"
     },
     {
-      "$GMFolder": "",
+      ,
       "%Name": "Npcs01",
       "folderPath": "folders/Sprites/characters/Npcs01.yy",
       "name": "Npcs01",
       "resourceType": "GMFolder",
-      "resourceVersion": "2.0"
+      "resourceVersion": "1.0"
     },
     {
-      "$GMFolder": "",
+      ,
       "%Name": "Player",
       "folderPath": "folders/Sprites/characters/Player.yy",
       "name": "Player",
       "resourceType": "GMFolder",
-      "resourceVersion": "2.0"
+      "resourceVersion": "1.0"
     },
     {
-      "$GMFolder": "",
+      ,
       "%Name": "Joystick",
       "folderPath": "folders/Sprites/Joystick.yy",
       "name": "Joystick",
       "resourceType": "GMFolder",
-      "resourceVersion": "2.0"
+      "resourceVersion": "1.0"
     }
   ],
   "ForcedPrefabProjectReferences": [],
@@ -418,7 +418,7 @@
     }
   ],
   "resourceType": "GMProject",
-  "resourceVersion": "2.0",
+  "resourceVersion": "1.0",
   "RoomOrderNodes": [
     {
       "roomId": {
@@ -448,7 +448,7 @@
   "templateType": "game",
   "TextureGroups": [
     {
-      "$GMTextureGroup": "",
+      ,
       "%Name": "Default",
       "autocrop": true,
       "border": 2,
@@ -461,7 +461,7 @@
       "mipsToGenerate": 0,
       "name": "Default",
       "resourceType": "GMTextureGroup",
-      "resourceVersion": "2.0",
+      "resourceVersion": "1.0",
       "targets": -1
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "$GMObject": "v1",
+  ,
   "%Name":"obj_video_player",
   "eventList":[],
   "managed":true,
@@ -25,7 +25,7 @@
   "physicsStartAwake":true,
   "properties":[],
   "resourceType":"GMObject",
-  "resourceVersion":"2.0",
+  "resourceVersion": "1.0",
   "solid":false,
   "spriteId":null,
   "spriteMaskId":null,
