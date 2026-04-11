@@ -1,5 +1,5 @@
 {
-  "$GM": "",
+  "$GM":"",
   "%Name":"Main",
   "name":"Main",
   "option_allow_instance_change":true,

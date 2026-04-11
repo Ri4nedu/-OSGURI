@@ -1,5 +1,5 @@
 {
-  "$GM": "",
+  "$GM":"",
   "%Name":"Reddit",
   "name":"Reddit",
   "option_reddit_devvit_project_id":"${project_name}",
