@@ -82,7 +82,7 @@
           },
           "properties": [
             {
-              "$GMOverriddenProperty": "v1",
+              "$GM": "",
               "%Name": "",
               "name": "",
               "objectId": {
@@ -98,7 +98,7 @@
               "value": "Play"
             },
             {
-              "$GMOverriddenProperty": "v1",
+              "$GM": "",
               "%Name": "",
               "name": "",
               "objectId": {
@@ -142,7 +142,7 @@
           },
           "properties": [
             {
-              "$GMOverriddenProperty": "v1",
+              "$GM": "",
               "%Name": "",
               "name": "",
               "objectId": {
@@ -158,7 +158,7 @@
               "value": "Sair"
             },
             {
-              "$GMOverriddenProperty": "v1",
+              "$GM": "",
               "%Name": "",
               "name": "",
               "objectId": {

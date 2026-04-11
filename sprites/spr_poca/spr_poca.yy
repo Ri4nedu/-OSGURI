@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GM": "",
   "%Name":"spr_poca",
   "bboxMode":0,
   "bbox_bottom":395,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"9b21a2f6-3864-46c9-9709-b531eac2d1ca","name":"9b21a2f6-3864-46c9-9709-b531eac2d1ca","resourceType":"GMSpriteFrame","resourceVersion":"1.0",},
+    {"$GM": "","%Name":"9b21a2f6-3864-46c9-9709-b531eac2d1ca","name":"9b21a2f6-3864-46c9-9709-b531eac2d1ca","resourceType":"GMSpriteFrame","resourceVersion":"1.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -32,7 +32,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"1.0",
   "sequence":{
-    "$GMSequence":"v1",
+    "$GM": "",
     "%Name":"spr_poca",
     "autoRecord":true,
     "backdropHeight":768,

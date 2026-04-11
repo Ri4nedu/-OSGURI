@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GM": "",
   "%Name":"spr_door",
   "bboxMode":0,
   "bbox_bottom":39,
@@ -12,11 +12,11 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"a9f04ff8-a155-4b5f-a198-c8b6a7c7d698","name":"a9f04ff8-a155-4b5f-a198-c8b6a7c7d698","resourceType":"GMSpriteFrame","resourceVersion":"1.0",},
-    {"$GMSpriteFrame":"v1","%Name":"fe34f61f-653a-483b-bf0e-0be90546ab26","name":"fe34f61f-653a-483b-bf0e-0be90546ab26","resourceType":"GMSpriteFrame","resourceVersion":"1.0",},
-    {"$GMSpriteFrame":"v1","%Name":"cd03bccf-da8b-4692-b33f-ba7b6df6126c","name":"cd03bccf-da8b-4692-b33f-ba7b6df6126c","resourceType":"GMSpriteFrame","resourceVersion":"1.0",},
-    {"$GMSpriteFrame":"v1","%Name":"75e18bf2-7894-490a-9d4e-82832ea86af3","name":"75e18bf2-7894-490a-9d4e-82832ea86af3","resourceType":"GMSpriteFrame","resourceVersion":"1.0",},
-    {"$GMSpriteFrame":"v1","%Name":"235261c1-f45e-46dc-b6f3-daf5f5f9cf1c","name":"235261c1-f45e-46dc-b6f3-daf5f5f9cf1c","resourceType":"GMSpriteFrame","resourceVersion":"1.0",},
+    {"$GM": "","%Name":"a9f04ff8-a155-4b5f-a198-c8b6a7c7d698","name":"a9f04ff8-a155-4b5f-a198-c8b6a7c7d698","resourceType":"GMSpriteFrame","resourceVersion":"1.0",},
+    {"$GM": "","%Name":"fe34f61f-653a-483b-bf0e-0be90546ab26","name":"fe34f61f-653a-483b-bf0e-0be90546ab26","resourceType":"GMSpriteFrame","resourceVersion":"1.0",},
+    {"$GM": "","%Name":"cd03bccf-da8b-4692-b33f-ba7b6df6126c","name":"cd03bccf-da8b-4692-b33f-ba7b6df6126c","resourceType":"GMSpriteFrame","resourceVersion":"1.0",},
+    {"$GM": "","%Name":"75e18bf2-7894-490a-9d4e-82832ea86af3","name":"75e18bf2-7894-490a-9d4e-82832ea86af3","resourceType":"GMSpriteFrame","resourceVersion":"1.0",},
+    {"$GM": "","%Name":"235261c1-f45e-46dc-b6f3-daf5f5f9cf1c","name":"235261c1-f45e-46dc-b6f3-daf5f5f9cf1c","resourceType":"GMSpriteFrame","resourceVersion":"1.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -36,7 +36,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"1.0",
   "sequence":{
-    "$GMSequence":"v1",
+    "$GM": "",
     "%Name":"spr_door",
     "autoRecord":true,
     "backdropHeight":768,

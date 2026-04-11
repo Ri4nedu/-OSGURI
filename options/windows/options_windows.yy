@@ -1,5 +1,5 @@
 {
-  "$GMWindowsOptions":"v2",
+  "$GM": "",
   "%Name":"Windows",
   "name":"Windows",
   "option_windows_allow_fullscreen_switching":false,

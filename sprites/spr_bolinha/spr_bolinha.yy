@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GM": "",
   "%Name":"spr_bolinha",
   "bboxMode":0,
   "bbox_bottom":0,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"aa5c84c6-4972-40d3-ae83-a68944a3406f","name":"aa5c84c6-4972-40d3-ae83-a68944a3406f","resourceType":"GMSpriteFrame","resourceVersion":"1.0",},
+    {"$GM": "","%Name":"aa5c84c6-4972-40d3-ae83-a68944a3406f","name":"aa5c84c6-4972-40d3-ae83-a68944a3406f","resourceType":"GMSpriteFrame","resourceVersion":"1.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -32,7 +32,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"1.0",
   "sequence":{
-    "$GMSequence":"v1",
+    "$GM": "",
     "%Name":"spr_bolinha",
     "autoRecord":true,
     "backdropHeight":768,

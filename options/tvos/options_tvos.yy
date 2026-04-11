@@ -1,5 +1,5 @@
 {
-  "$GMtvOSOptions":"v1",
+  "$GM": "",
   "%Name":"tvOS",
   "name":"tvOS",
   "option_tvos_build_number":0,

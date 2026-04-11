@@ -2,7 +2,7 @@
   "$GMObject": "",
   "%Name": "obj_camera_manager",
   "eventList": [
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"1.0",}
+    {"$GM": "","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"1.0",}
   ],
   "managed": true,
   "name": "obj_camera_manager",

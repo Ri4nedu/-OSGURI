@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GM": "",
   "%Name":"spr_locker",
   "bboxMode":0,
   "bbox_bottom":1679,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"e4b15b43-3297-44b8-a411-655ee93ffe8f","name":"e4b15b43-3297-44b8-a411-655ee93ffe8f","resourceType":"GMSpriteFrame","resourceVersion":"1.0",},
+    {"$GM": "","%Name":"e4b15b43-3297-44b8-a411-655ee93ffe8f","name":"e4b15b43-3297-44b8-a411-655ee93ffe8f","resourceType":"GMSpriteFrame","resourceVersion":"1.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -32,7 +32,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"1.0",
   "sequence":{
-    "$GMSequence":"v1",
+    "$GM": "",
     "%Name":"spr_locker",
     "autoRecord":true,
     "backdropHeight":768,

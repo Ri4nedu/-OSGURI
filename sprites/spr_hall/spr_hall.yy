@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GM": "",
   "%Name":"spr_hall",
   "bboxMode":0,
   "bbox_bottom":515,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"cacb32f3-bdf1-4924-abcb-bb667ba7c0fe","name":"cacb32f3-bdf1-4924-abcb-bb667ba7c0fe","resourceType":"GMSpriteFrame","resourceVersion":"1.0",},
+    {"$GM": "","%Name":"cacb32f3-bdf1-4924-abcb-bb667ba7c0fe","name":"cacb32f3-bdf1-4924-abcb-bb667ba7c0fe","resourceType":"GMSpriteFrame","resourceVersion":"1.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -32,7 +32,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"1.0",
   "sequence":{
-    "$GMSequence":"v1",
+    "$GM": "",
     "%Name":"spr_hall",
     "autoRecord":true,
     "backdropHeight":768,

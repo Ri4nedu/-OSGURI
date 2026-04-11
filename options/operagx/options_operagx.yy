@@ -1,5 +1,5 @@
 {
-  "$GMOperaGXOptions":"v1",
+  "$GM": "",
   "%Name":"Opera GX",
   "name":"Opera GX",
   "option_operagx_display_cursor":true,

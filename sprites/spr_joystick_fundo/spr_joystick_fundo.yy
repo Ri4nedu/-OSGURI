@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GM": "",
   "%Name":"spr_joystick_fundo",
   "bboxMode":0,
   "bbox_bottom":127,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"997d8103-cc83-483c-bd22-6b69e4a0e29d","name":"997d8103-cc83-483c-bd22-6b69e4a0e29d","resourceType":"GMSpriteFrame","resourceVersion":"1.0",},
+    {"$GM": "","%Name":"997d8103-cc83-483c-bd22-6b69e4a0e29d","name":"997d8103-cc83-483c-bd22-6b69e4a0e29d","resourceType":"GMSpriteFrame","resourceVersion":"1.0",},
   ],
   "gridX":4,
   "gridY":4,
@@ -32,7 +32,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"1.0",
   "sequence":{
-    "$GMSequence":"v1",
+    "$GM": "",
     "%Name":"spr_joystick_fundo",
     "autoRecord":true,
     "backdropHeight":768,

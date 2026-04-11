@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GM": "",
   "%Name":"Sscholback",
   "bboxMode":0,
   "bbox_bottom":315,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"5a068b37-74cf-43d4-bff4-0b2cf9952d1b","name":"5a068b37-74cf-43d4-bff4-0b2cf9952d1b","resourceType":"GMSpriteFrame","resourceVersion":"1.0",},
+    {"$GM": "","%Name":"5a068b37-74cf-43d4-bff4-0b2cf9952d1b","name":"5a068b37-74cf-43d4-bff4-0b2cf9952d1b","resourceType":"GMSpriteFrame","resourceVersion":"1.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -32,7 +32,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"1.0",
   "sequence":{
-    "$GMSequence":"v1",
+    "$GM": "",
     "%Name":"Sscholback",
     "autoRecord":true,
     "backdropHeight":768,

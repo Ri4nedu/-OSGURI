@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"v2",
+  "$GM": "",
   "%Name":"spr_pergaminhoA",
   "bboxMode":0,
   "bbox_bottom":1399,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"0b05d206-a60f-4459-8495-2ba743b02a3c","name":"0b05d206-a60f-4459-8495-2ba743b02a3c","resourceType":"GMSpriteFrame","resourceVersion":"1.0",},
+    {"$GM": "","%Name":"0b05d206-a60f-4459-8495-2ba743b02a3c","name":"0b05d206-a60f-4459-8495-2ba743b02a3c","resourceType":"GMSpriteFrame","resourceVersion":"1.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -32,7 +32,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"1.0",
   "sequence":{
-    "$GMSequence":"v1",
+    "$GM": "",
     "%Name":"spr_pergaminhoA",
     "autoRecord":true,
     "backdropHeight":768,
